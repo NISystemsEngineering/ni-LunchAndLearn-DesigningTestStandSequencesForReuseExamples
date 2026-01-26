@@ -1,0 +1,25 @@
+﻿DUT,ECU Pin Name,Device Pin Name,ECU Signal Type,ECU Signal Direction,MessageID
+0,ECU.Connector0.Pin0,Device1/AO0,Voltage,Input,0
+0,ECU.Connector0.Pin1,Device1/AO1,Voltage,Input,1
+0,ECU.Connector0.Pin2,Device1/AO2,Voltage,Input,2
+0,ECU.Connector0.Pin3,Device1/AO3,Voltage,Input,3
+0,ECU.Connector0.Pin4,Device1/AO4,Voltage,Input,4
+0,ECU.Connector0.Pin5,Device1/AO5,Voltage,Input,5
+0,ECU.Connector0.Pin6,Device1/AO6,Voltage,Input,6
+0,ECU.Connector0.Pin7,Device1/AO7,Voltage,Input,7
+0,ECU.Connector0.Pin8,Device1/AO8,Voltage,Input,8
+0,ECU.Connector0.Pin9,Device1/AO9,Voltage,Input,9
+0,ECU.Connector0.Pin10,Device1/AO10,Voltage,Input,10
+0,ECU.Connector0.Pin11,Device1/AO11,Voltage,Input,11
+1,ECU.Connector0.Pin0,Device1/AO12,Voltage,Input,0
+1,ECU.Connector0.Pin1,Device1/AO13,Voltage,Input,1
+1,ECU.Connector0.Pin2,Device1/AO14,Voltage,Input,2
+1,ECU.Connector0.Pin3,Device1/AO15,Voltage,Input,3
+1,ECU.Connector0.Pin4,Device1/AO16,Voltage,Input,4
+1,ECU.Connector0.Pin5,Device1/AO17,Voltage,Input,5
+1,ECU.Connector0.Pin6,Device1/AO18,Voltage,Input,6
+1,ECU.Connector0.Pin7,Device1/AO19,Voltage,Input,7
+1,ECU.Connector0.Pin8,Device1/AO20,Voltage,Input,8
+1,ECU.Connector0.Pin9,Device1/AO21,Voltage,Input,9
+1,ECU.Connector0.Pin10,Device1/AO22,Voltage,Input,10
+1,ECU.Connector0.Pin11,Device1/AO23,Voltage,Input,11

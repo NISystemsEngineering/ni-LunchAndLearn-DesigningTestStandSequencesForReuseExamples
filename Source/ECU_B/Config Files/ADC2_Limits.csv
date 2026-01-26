@@ -1,0 +1,10 @@
+<PropertyGroup name='Group 1' id='53a9cf1a-7245-4415-83f2-7ad7dc47f57a' description='Description for Group 1'>,,,,,,
+<Sequence>,<Category>,<PropertyLookup>,<Value>,,,
+MainSequence,{Locals},ADCLimits {Container [0] .. [5]},ExpectedValue {Number},LimitLow {Number},LimitHigh {Number},PinName {String}
+MainSequence,{Locals},ADCLimits[0],12,10,14,ECU.Connector0.Pin6
+MainSequence,{Locals},ADCLimits[1],12,10,14,ECU.Connector0.Pin7
+MainSequence,{Locals},ADCLimits[2],12,10,14,ECU.Connector0.Pin8
+MainSequence,{Locals},ADCLimits[3],12,10,14,ECU.Connector0.Pin9
+MainSequence,{Locals},ADCLimits[4],12,10,14,ECU.Connector0.Pin10
+MainSequence,{Locals},ADCLimits[5],12,10,14,ECU.Connector0.Pin11
+<PropertyGroup>,,,,,,
